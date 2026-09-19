@@ -5,6 +5,8 @@
 This is a school project that was realised in **4 weeks**.\
 It does not guarantee the [SCL][1]'s full implementation.
 
+This repository is provided solely for educational reference and professional display. Note that automated plagiarism detection systems will flag copied code from public repositories. I hold no liability for any academic consequences resulting from the unauthorized use or duplication of this codebase.
+
 [1]: https://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html
 ## 🛠️ Installation
 Required prior installation:
